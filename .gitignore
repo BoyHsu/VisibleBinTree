@@ -1,2 +1,7 @@
-AnimationBST/AnimationBST/BinTree
+AnimationBST/AnimationBST/BaseBinTree
+AnimationBST/Pods
+AnimationBST/AnimationBST.xcworkspace/*
 *.xcuserstate
+*.pbxproj
+AnimationBST/AnimationBST.xcodeproj/xcuserdata/mac.xcuserdatad/xcschemes/xcschememanagement.plist
+AnimationBST/AnimationBST.xcodeproj/project.pbxproj
